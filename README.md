@@ -1,5 +1,7 @@
 # LED Dance Suit
 
+![](images/led.jpg)
+
 Requires the Neopixel Library 
 
 * sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
