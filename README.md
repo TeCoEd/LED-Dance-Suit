@@ -9,6 +9,7 @@ Requires the Neopixel Library
 
 More details from: https://learn.adafruit.com/neopixels-on-raspberry-pi/python-usage
 
+Read more here:
 
 [Project Website](https://www.tecoed.co.uk/led-dance-suit.html)
 
